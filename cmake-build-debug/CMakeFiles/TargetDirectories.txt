@@ -1,0 +1,3 @@
+/home/tsf/CLionProjects/Trie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/tsf/CLionProjects/Trie/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/tsf/CLionProjects/Trie/cmake-build-debug/CMakeFiles/Trie.dir
